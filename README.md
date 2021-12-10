@@ -1,4 +1,4 @@
-# Aerificial Inteligence Project
+# Arificial Inteligence Project
 
 
 The problem will have a clear knowledge of the environment. The walls are characterized as “+,” dirt is “*,” and clear space is just a clear sting “ .“ The starting point of the vacuum is fixed at a certain location in the labyrinth. Since the environment is known we use Breadth-first graph search, depth-first graph search, A star search. 
